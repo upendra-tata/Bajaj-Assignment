@@ -1,0 +1,7 @@
+com\bfh\entity\SqlSolution.class
+com\bfh\dto\FinalQueryRequest.class
+com\bfh\dto\GenerateWebhookResponse.class
+com\bfh\BfhQualifierJavaApplication.class
+com\bfh\dto\GenerateWebhookRequest.class
+com\bfh\repository\SqlSolutionRepository.class
+com\bfh\runner\QualifierRunner.class
